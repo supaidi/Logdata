@@ -1,0 +1,2 @@
+# Logdata
+1minutedatalogging
